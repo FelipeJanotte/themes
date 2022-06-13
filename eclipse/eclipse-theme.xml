@@ -5,39 +5,39 @@
     <occurrenceIndication color="#44475a" underline="true" /> <!-- background -->
     <writeOccurrenceIndication color="#44475a" underline="true" /> <!-- background -->
     <findScope color="#44475a" /> <!-- selection -->
-    <deletionIndication color="#e06c75" /> <!-- orange -->
+    <deletionIndication color="#e06c75" /> <!-- light red -->
     <sourceHoverBackground color="#56b6c2" /> <!-- cyan -->
     <singleLineComment color="#7f848e" italic="false" /> <!-- comment-->
     <multiLineComment color="#7f848e" italic="false" /> <!-- comment-->
-    <commentTaskTag color="#61afef" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
+    <commentTaskTag color="#61afef" italic="false" underline="true" strikethrough="false" /> <!-- bright cyan -->
     <javadoc color="#7f848e" italic="false" /> <!-- comment -->
-    <javadocLink color="#61afef" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
-    <javadocTag color="#f44747" italic="false" /> <!-- cyan -->
-    <javadocKeyword color="#c678dd" italic="false" /> <!-- cyan -->
-    <class color="#c678dd" bold="false" underline="false" strikethrough="false" /> <!-- cyan -->
-    <interface color="#c678dd" /> <!-- cyan -->
-    <method color="#61afef" /> <!-- green -->
-    <methodDeclaration color="#61afef" /> <!-- green -->
+    <javadocLink color="#61afef" italic="false" underline="true" strikethrough="false" /> <!-- bright cyan -->
+    <javadocTag color="#f44747" italic="false" /> <!-- red -->
+    <javadocKeyword color="#c678dd" italic="false" /> <!-- purple -->
+    <class color="#c678dd" bold="false" underline="false" strikethrough="false" /> <!-- purple -->
+    <interface color="#c678dd" /> <!-- purple -->
+    <method color="#61afef" /> <!-- bright cyan -->
+    <methodDeclaration italic="true" color="#61afef" /> <!-- bright cyan -->
     <bracket color="#f8f8f2" /> <!-- foreground -->
     <number color="#d19a66" /> <!-- orange -->
     <string color="#98c379" /> <!-- green -->
-    <operator color="#61afef" /> <!-- cyan (annoyingly class declaration too) -->
-    <keyword color="#bd93f9" bold="false" /> <!-- red -->
+    <operator color="#61afef" /> <!-- bright cyan -->
+    <keyword color="#bd93f9" bold="false" /> <!-- purple -->
     <annotation color="#98c379" /> <!-- green -->
     <staticMethod color="#98c379" /> <!-- green -->
     <localVariable color="#f44747" /> <!-- foreground -->
-    <localVariableDeclaration color="#f44747" /> <!-- pink -->
+    <localVariableDeclaration color="#f44747" /> <!-- red -->
     <field color="#f44747" /> <!-- foreground -->
     <staticField color="#f8f8f2" /> <!-- foreground -->
     <staticFinalField color="#bd93f9" /> <!-- purple -->
     <deprecatedMember color="#ffb86c" underline="false" strikethrough="true" /> <!-- orange -->
     <enum color="#bd93f9" /> <!-- purple -->
     <inheritedMethod color="#98c379" /> <!-- green -->
-    <abstractMethod color="#bd93f9" /> <!-- green -->
-    <parameterVariable color="#f44747" /> <!-- orange -->
+    <abstractMethod color="#bd93f9" /> <!-- purple -->
+    <parameterVariable color="#f44747" /> <!-- red -->
     <typeArgument color="#56b6c2" /> <!-- cyan -->
     <typeParameter color="#ffb86c" /> <!-- orange -->
-    <constant color="#f44747" /> <!-- purple -->
+    <constant color="#f44747" /> <!-- red -->
     <background color="#282a36" /> <!-- background -->
     <currentLine color="#44475a" /> <!-- grey -->
     <foreground color="#f8f8f2" /> <!-- foreground -->
